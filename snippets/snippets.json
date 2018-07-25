@@ -1,0 +1,47 @@
+{
+  "accordion": {
+    "prefix": "ca-accordion",
+    "body": "<ca-accordion></ca-accordion>",
+    "description": "accordion component"
+  },
+  "accordion-item": {
+    "prefix": "ca-accordion-item",
+    "body": "<ca-accordion-item :title=\"${1}\"></ca-accordion-item>",
+    "description": "accordion item component"
+  },
+  "breadcrumb": {
+    "prefix": "ca-breadcrumb",
+    "body": "<ca-breadcrumb noSlash></ca-breadcrumb>",
+    "description": "breadcrumb component"
+  },
+  "breadcrumb-item": {
+    "prefix": "ca-breadcrumb-item",
+    "body": "<ca-breadcrumb-item :href=\"${1}\"></ca-breadcrumb-item>",
+    "description": "breadcrumb item component"
+  },
+  "button": {
+    "prefix": "ca-button",
+    "body": "<ca-button primary></ca-button>",
+    "description": "button component"
+  },
+  "checkbox": {
+    "prefix": "ca-checkbox",
+    "body": "<ca-checkbox :itemId=\"${1}\" :itemValue=\"${2}\"></ca-checkbox>",
+    "description": "checkbox component"
+  },
+  "code-snippt": {
+    "prefix": "ca-code-snippt",
+    "body": "<ca-code-snippt type=\"code\"></ca-code-snippt>",
+    "description": "code-snippt component"
+  },
+  "content-switcher": {
+    "prefix": "ca-content-switcher",
+    "body": "<ca-content-switcher @selected=\"selected\"></ca-content-switcher>",
+    "description": "content-switcher component"
+  },
+  "content-switcher-button": {
+    "prefix": "ca-content-switcher-button",
+    "body": "<ca-content-switcher-button :switchValue=\"${1}\"></ca-content-switcher-button>",
+    "description": "content-switcher-button component"
+  }
+}

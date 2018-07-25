@@ -1,0 +1,21 @@
+{
+    "name": "carvuejs",
+    "displayName": "CarvueJS",
+    "description": "vscode extension for CarvueJS",
+    "version": "0.0.1",
+    "publisher": "CarvueJS",
+    "engines": {
+        "vscode": "^1.25.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "vue-html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
