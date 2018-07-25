@@ -3,6 +3,11 @@
     "displayName": "CarvueJS",
     "description": "vscode extension for CarvueJS",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CarvueJS/carvue-vscode-extension"
+    },
+    "icon": "assets/icon.png",
     "publisher": "CarvueJS",
     "engines": {
         "vscode": "^1.25.0"
