@@ -2,7 +2,7 @@
     "name": "carvuejs",
     "displayName": "CarvueJS",
     "description": "vscode extension for CarvueJS",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/CarvueJS/carvue-vscode-extension"
